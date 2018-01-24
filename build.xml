@@ -1,4 +1,4 @@
-<project defult = "compile">
+<project>
   <porperty name = "src.java.dir" location="./C:\Users\rozam\eclipse-workspace\IntegrateEclipseWithGitHub1"/>
    <porperty name = "result.dir" location =".target"/>
    <porperty name = "result.javaclasses.dir" location = "&{result.dir}/classes"/>
