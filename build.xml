@@ -1,5 +1,5 @@
-<project>
-  <porperty name = "src.java.dir" location="./C:\Users\rozam\eclipse-workspace\IntegrateEclipseWithGitHub1"/>
+ <project>
+  <porperty name = "src.java.dir" location="C:\Users\rozam\eclipse-workspace\IntegrateEclipseWithGitHub1"/>
    <porperty name = "result.dir" location =".target"/>
    <porperty name = "result.javaclasses.dir" location = "&{result.dir}/classes"/>
   <target name = "compile">
